@@ -16,7 +16,7 @@
 - 🧰 Git | GitHub | VS Code | IntelliJ IDEA  
 
 📫 *Connect with Me*
-- [LinkedIn]([your-linkedin-link](https://www.linkedin.com/in/dhanashri-mahajan-53a1092a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+- [LinkedIn](https://www.linkedin.com/in/dhanashri-mahajan-53a1092a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 - [Email](dhanashrimahajan278@gmail.com)
 
 - ⭐ *“Code. Learn. Build. Repeat.”*
