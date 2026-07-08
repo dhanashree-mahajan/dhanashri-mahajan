@@ -1,22 +1,61 @@
-# dhanashri-mahajan
-👩‍💻 My personal GitHub profile — showcasing my skills, projects, and passion for web development.
+👋 Hi, I'm Dhanashri Mahajan
 
-# Hi there 👋, I'm Dhanashri Mahajan
+🎓 BE Electronics & Telecommunication Engineering Student (2026)  
+💻 Aspiring Java Full Stack Developer  
+🌱 Passionate about building scalable web applications and continuously learning new technologies.
 
-💫 *About Me*
-- 🎓 BE Electronics & Telecommunication Student at Pravara Rural Engineering College, Loni  
-- 💻 Passionate about *Frontend Web Development* and *Java Backend Development*  
-- 🌱 Currently learning *Spring Boot* and *React.js*  
-- 💡 Interested in building user-friendly and efficient web applications  
-- ⚡ Fun fact: I love turning creative ideas into real projects!
+## 🚀 About Me
 
-🛠 *Tech Stack*
-- 💻 Java | JavaScript | HTML | CSS  
-- 🌐 React.js | Bootstrap |Tailwind 
-- 🧰 Git | GitHub | VS Code | IntelliJ IDEA  
+- 🎓 Graduate BE Electronics & Telecommunication student at Pravara Rural Engineering College, Loni.
+- 💻 Interested in Java Full Stack Development
+- 🌱 Spring Boot, Hibernate, REST APIs, and React.js
+- 🧠 Practicing Data Structures & Algorithms and SQL
+- 🎯 Looking for internship and entry-level Software Developer opportunities
 
-📫 *Connect with Me*
-- [LinkedIn](https://www.linkedin.com/in/dhanashri-mahajan-53a1092a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
-- [Email](dhanashrimahajan278@gmail.com)
+## 🛠️ Tech Stack
 
-- ⭐ *“Code. Learn. Build. Repeat.”*
+### Languages
+- Java
+- JavaScript
+- HTML5
+- CSS3
+- SQL
+
+### Frontend
+- React.js
+- Bootstrap
+- Tailwind CSS
+
+### Backend
+- Spring Boot
+- Hibernate
+- JPA
+- REST APIs
+
+### Database
+- MySQL
+- PostgreSQL
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- IntelliJ IDEA
+- Eclipse
+- Postman
+
+## 📌 Featured Projects
+
+### 🌾 Farmer-Driven Crop Price & Marketplace Platform
+A React Native and Spring Boot application that enables farmers to share crop prices, connect with buyers, and access real-time market information.
+
+### 🍽️ Smart Mess Attendance System
+A QR Code-based attendance system built using Java, Spring Boot, and PostgreSQL for efficient meal attendance management.
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/dhanashri-mahajan-53a1092a1
+- 📧 Email: dhanashrimahajan278@gmail.com
+
+⭐ **"Code. Learn. Build. Repeat."**
